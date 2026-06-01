@@ -2,6 +2,10 @@
 
 Aplicacao didatica em Python para demonstrar o algoritmo do **Par de Pontos Mais Proximos** em um espaco 3D. A cena gera entre 20 e 50 pontos aleatorios, representa cada ponto como uma esfera e destaca automaticamente as duas esferas com menor distancia euclidiana entre si.
 
+## Video da apresentacao
+
+[Assistir ao video da apresentacao](https://drive.google.com/file/d/1eNSKGQj5EOOuopyaHCI-NOGbMmH4suMo/view?usp=sharing)
+
 ## Biblioteca escolhida
 
 O projeto usa **VPython** porque e simples para visualizacao 3D, funciona bem em Windows e permite criar esferas, linhas, camera e textos com poucas linhas de codigo. Ao executar o programa, o VPython abre a visualizacao 3D no navegador.
